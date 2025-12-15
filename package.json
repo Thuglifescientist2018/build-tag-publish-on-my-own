@@ -1,0 +1,15 @@
+{
+  "name": "build-tag-publish-on-my-own",
+  "version": "1.0.0",
+  "description": "A simple Node.js backend image ",
+  "main": "index.js",
+  "author": "Shashwat Dahal",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
